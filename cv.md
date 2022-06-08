@@ -33,6 +33,6 @@ I have knowledge of spring framework.
 
 * courses Java development IT OVERONE
 * courses QA ANDERSEN ("Software Testing Fundamentals")
-* English language level Pre-Intermediate
+* English language level: Pre-Intermediate
 
 ********************************************************************************************
