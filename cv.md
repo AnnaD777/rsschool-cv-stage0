@@ -12,7 +12,7 @@
 
 * HTML
 * CSS
-* Git
+* GitHub
 * SQL
 * Java
 * Spring MVC
